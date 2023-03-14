@@ -4,17 +4,17 @@ package Float;
 public class ExFloat1 {
 
     //criando variável e declarando tipo: Float
-    private float cpf = 1234567890.00f; //números em notação de ponto flutuante
+    private float codigo = 1234.45f; //números em notação de ponto flutuante
 
     //necessário uso do 'f' após a declaração das variáveis
 
     //criando variável e declarando tipo: Float
-    private float cpff = 120345698.08f; //números em notação de ponto flutuante
+    private float codigoo = 120.48f; //números em notação de ponto flutuante
 
     //método de execução
     public boolean conf(){
         //método if
-        if(this.cpf == this.cpff){
+        if(this.codigo == this.codigoo){
             //retorno caso positivo
             return true;
             //retorno caso negativo;

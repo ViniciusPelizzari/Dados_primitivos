@@ -9,23 +9,23 @@ public class ExFloat2 {
     Scanner s = new Scanner(System.in);
 
     //criando variável e declarando tipo: Float
-    private float cpf;
+    private float id;
 
     //método de leitura e declaração de cpf
-    public float cpf(){
+    public float id(){
         //lendo e declarando dados
-        this.cpf = s.nextFloat();
+        this.id = s.nextFloat();
         //retornndo varável
-        return cpf;
+        return id;
     }
 
     //método de execução
     public void conf(){
         //imprimindo na tela
-        System.out.println("Digite seu cpf: ");
+        System.out.println("Digite seu ID: ");
         //chamando método
-        this.cpf();
+        this.id();
         //imprimindo na tela
-        System.out.println("Seu cpf é: " + cpf);
+        System.out.println("Seu ID é: " + id);
     }
 }
