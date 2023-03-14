@@ -1,4 +1,4 @@
-# TIPOS_DE_DADOS
+# DADOS PRIMITIVOS
 
 - Aceita apenas caracteres únicos;
 - Seu tamanho é igual a 16 bits, mas na memória da máquina, tem seu tamanho de armazenamento igual a 2 bits;
