@@ -1,4 +1,4 @@
-# TIPOS_DE_DADOS
+# DADOS PRIMITIVOS
 
 - Aceita pouca quantidade numérica, do -128 ao 127;
 - São apenas números inteiros;
