@@ -1,4 +1,4 @@
-# TIPOS_DE_DADOS
+# DADOS PRIMITIVOS
 
 - Usado como uma forma de condição e em controle de fluxos para verificação... Se "algo for verdadeiro/igual, retorne TRUE";
 - Usa valores como 'TRUE' e 'FALSE', verdadeiro ou falso;
