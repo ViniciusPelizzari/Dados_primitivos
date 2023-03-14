@@ -19,7 +19,7 @@ public class ExDouble2 {
     //metódo de execução
     public double conf(){
         //chamando método set para a declaração
-        this.setAltura(1.80d);
+        this.setAltura(1.80);
         //chamando método get para retornar valor declarado
         return this.getAltura();
     }
