@@ -15,8 +15,7 @@
 🥉 - Suas peculiaridades fornecem a melhor resposta para determinado problema e código, por este motivo, é necessário a observação da necessidade do projeto, antes de escolher algum tipo para ser usado... Por diversos motivos, como: o tamanho de armazenamento, a rapidez de resposta, precisão de cálculos; 📈📊
 
 <div>
-Exemplo:
-<div>
+## Exemplo:
 <div>
  para isso:  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Boolean" target="_blank">- boolean</a><br>
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Byte" target="_blank">- byte</a><br>
