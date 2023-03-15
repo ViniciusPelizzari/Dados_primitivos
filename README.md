@@ -14,7 +14,7 @@
 <div>
 Exemplo:
 <div>
-  <p>Verificação de informações: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Boolean" target="_blank">- boolean</a><br>
+  <p>Verificação de informações: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Boolean" target="_blank">- boolean</a><br></p>
   Variáveis com pouca quantidade de dados: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Byte" target="_blank">- byte</a><br>
   Escolha de poucas opções (quizz): <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Char" target="_blank">- char</a><br>
   Cálculos com números decimais: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Double" target="_blank">- double</a><br>
