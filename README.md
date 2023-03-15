@@ -7,3 +7,4 @@
 - Seu tamanho é de 32 bits ou 4 bytes, na memória da máquina;
 - Este tipo de dados é necessário usar um 'f' ou 'F' após os números, na declaração;
 - Nem sempre os valores são precisos, podendo serem arredondados;
+- Parecido com "double", mas pode armazenar menos valores;
