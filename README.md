@@ -6,3 +6,4 @@
     - Obs: Ao invés de usar " , ", ele usa " . ";
 - Pode-se armazenar grande quantidade de números (casas decimais);
 - Seu tamanho é de 64 bits ou 8 bytes, na memória da máquina;
+- Parecido com "float", mas pode armazenar mais valores;
