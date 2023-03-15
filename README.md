@@ -1,9 +1,7 @@
 # DADOS PRIMITIVOS
 <div>
-
-<div>
 🥇  -   São os dados usados para declarar as variáveis numéricas, lógicas ou com caracteres; 🧮⚙️🖥️
-
+</div>
 
 
 🥈   -  Servem para a realização de operações matemáticas e lógicas, como o "boolean";  👨👨‍🏫
