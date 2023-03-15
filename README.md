@@ -16,6 +16,7 @@
 
 <div>
 ##
+<div>
 Exemplo:
 <div>
   Verificação de informações: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Boolean" target="_blank">- boolean</a><br>
