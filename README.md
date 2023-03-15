@@ -1,6 +1,7 @@
 # DADOS PRIMITIVOS
 
 - Usado como uma forma de condição e em controle de fluxos para verificação... Se "algo for verdadeiro/igual, retorne TRUE";
+- Seu tamanho na memória é igual a 1 bits, mas nas máquinas atuais, usam 8 bits;
 - Usa valores como 'TRUE' e 'FALSE', verdadeiro ou falso;
 - Permite o uso de operações lógicas em suas condições...
   Ex: public class Exemplo {
