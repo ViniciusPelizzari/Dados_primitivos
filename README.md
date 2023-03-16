@@ -14,13 +14,13 @@
 <div>
 Exemplo:
 <div>
-  - Verificação de informações: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Boolean" target="_blank">- boolean</a><br>
-  - Variáveis com pouca quantidade de dados: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Byte" target="_blank">- byte</a><br>
-  - Escolha de poucas opções (quizz): <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Char" target="_blank">- char</a><br>
-  - Cálculos com números decimais: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Double" target="_blank">- double</a><br>
-  - Saldo (grande quantia) em conta: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Float" target="_blank">- float</a><br>
-  - Cálculos com números inteiros: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Int" target="_blank">- int</a><br>
-  - Declaração de CPF e CPNJ: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Long" target="_blank">- long</a><br>
-  - Saldo (pequena quantia) em conta: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Short" target="_blank">- short</a><br>
+  - Verificação de informações: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Boolean" target="_blank"> boolean</a><br>
+  - Variáveis com pouca quantidade de dados: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Byte" target="_blank"> byte</a><br>
+  - Escolha de poucas opções (quizz): <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Char" target="_blank"> char</a><br>
+  - Cálculos com números decimais: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Double" target="_blank"> double</a><br>
+  - Saldo (grande quantia) em conta: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Float" target="_blank"> float</a><br>
+  - Cálculos com números inteiros: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Int" target="_blank"> int</a><br>
+  - Declaração de CPF e CPNJ: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Long" target="_blank"> long</a><br>
+  - Saldo (pequena quantia) em conta: <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Short" target="_blank"> short</a><br>
 </div>
 
